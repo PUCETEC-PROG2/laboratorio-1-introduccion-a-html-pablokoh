@@ -5,8 +5,8 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [Ingresa tu nombre]
-**Carrera:** Desarrollo de Software
+**Nombre:** Pablo Puentes        
+**Carrera:** Tecnologia Desarrollo de Software
 
 ## Instrucciones
 
