@@ -1,0 +1,28 @@
+
+#PABLITO_STORE_ESTILOS_CSS_BY_PABLITO_PUENTES 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    /* Imagen de fondo para toda la página */
+    background-image: url('https://i.pinimg.com/originals/0b/33/8f/0b338f9016bf97ecc748af9e03775f7f.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    font-size: 1.5em;
+    color: #667eea;
+    margin-bottom: 15px;
+}
+
+.Descripcion del{
+    color: #666;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
