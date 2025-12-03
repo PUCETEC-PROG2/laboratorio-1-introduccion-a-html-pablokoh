@@ -1,0 +1,20 @@
+body {
+    background-image: url(SH2Title.jpg);
+    background-size: cover;
+}
+
+P { color: slateblue;}
+
+.academico {
+    color: red
+;
+}
+
+#colegio {
+    font-weight: bold;
+}
+
+.nombre {
+    color: red;
+}
+
